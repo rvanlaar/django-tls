@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='django-tls',
+    name='django-tls-rvanlaar',
     version='0.0.3',
     description='Stores the current request in Thread Local Storage using Werkzeug',
     long_description=open('README.rst').read(),
     author='Roland van Laar',
-    author_email='roland@micite.net',
+    author_email='roland@rolandvanlaar.nl',
     license='BSD',
     url='https://github.com/rvanlaar/django-tls',
     packages=find_packages(),
