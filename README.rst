@@ -7,7 +7,7 @@ Stores the current request in `Thread Local Storage`_ using `Werkzeug`_.
 
 Installation::
 
-    pip install git+https://github.com/rvanlaar/django-tls
+    pip install django-tls-rvanlaar
 
 Configuration::
 
